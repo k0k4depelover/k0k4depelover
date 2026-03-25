@@ -6,13 +6,10 @@ Soy desarrollador de software apasionado por construir cosas que funcionen de ve
 
 ## 🚀 Proyectos Destacados
 
-### 🛒 [EcommGO](https://github.com/k0k4depelover/EcommGO) — REST API en Go
-API de e-commerce con arquitectura en capas limpia. Implementa CRUD de productos y órdenes con **transacciones MySQL atómicas** — si falla un item, hace rollback completo. Testing con `sqlmock` sin base de datos real.
+### [UMG-BUS-APP](https://github.com/k0k4depelover/umg-bus-app) — Sistema de Transporte Universitario en Tiempo Real
+Sistema de seguimiento GPS en tiempo real para buses universitarios de UMG Guatemala. Backend en Go (Gofiber) con WebSockets, PostgreSQL, Redis y frontend React. **Propuesta activa para Google Summer of Code (GSoC).**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Chi](https://img.shields.io/badge/Chi-Router-00ADD8?style=flat)
-
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://github.com/k0k4depelover/umg-bus-app) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://github.com/k0k4depelover/umg-bus-app) [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://github.com/k0k4depelover/umg-bus-app) [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/k0k4depelover/umg-bus-app) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/k0k4depelover/umg-bus-app)
 ---
 
 ### ⚽ [Sportz](https://github.com/k0k4depelover/sportz) — WebSocket + REST en tiempo real
