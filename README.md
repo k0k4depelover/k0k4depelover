@@ -6,12 +6,6 @@ Soy desarrollador de software apasionado por construir cosas que funcionen de ve
 
 ## 🚀 Proyectos Destacados
 
-### [UMG-BUS-APP](https://github.com/k0k4depelover/umg-bus-app) — Sistema de Transporte Universitario en Tiempo Real
-Sistema de seguimiento GPS en tiempo real para buses universitarios de UMG Guatemala. Backend en Go (Gofiber) con WebSockets, PostgreSQL, Redis y frontend React. **Propuesta activa para Google Summer of Code (GSoC).**
-
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://github.com/k0k4depelover/umg-bus-app) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://github.com/k0k4depelover/umg-bus-app) [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://github.com/k0k4depelover/umg-bus-app) [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/k0k4depelover/umg-bus-app) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/k0k4depelover/umg-bus-app)
----
-
 ### ⚽ [Sportz](https://github.com/k0k4depelover/sportz) — WebSocket + REST en tiempo real
 Servidor de eventos deportivos que combina API REST con **WebSocket broadcast**. Cuando se crea un partido, todos los clientes conectados reciben el evento al instante. Validación con Zod, ORM type-safe con Drizzle.
 
@@ -38,22 +32,6 @@ Arquitectura de microservicios con los patrones fundamentales de sistemas distri
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
 
----
-
-### 🖥️ [Administrador de Tareas](https://github.com/k0k4depelover/Administrador-de-Tareas) — Process Manager en C++
-Gestor de procesos multiplataforma (Linux + Windows) con CLI. Implementa `run`, `kill` y `list` usando llamadas al sistema POSIX y Win32. Proyecto del curso de Sistemas Operativos I.
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
-
----
-
-### 🧮 [Algorithms in C++](https://github.com/k0k4depelover/Algorithms-in-C) — Colección de Algoritmos
-Implementaciones documentadas de algoritmos de SO y estructuras de datos con explicación teórica incluida. El **Algoritmo del Banquero** implementado con análisis de distancia de Mahalanobis subyacente.
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
----
 
 ### 🔐 [Ransomware & AntiRansomware](https://github.com/k0k4depelover/Ransomware-y-AntiRansomware) — Seguridad Informática
 Cifrado/descifrado de archivos con **AES-256-CBC** vía OpenSSL. IV único embebido por archivo, destrucción segura de claves con `shred`. Solo para entornos de laboratorio.
